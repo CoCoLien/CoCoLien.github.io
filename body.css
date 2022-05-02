@@ -1,0 +1,11 @@
+h1{color:red;font-style:italic;}
+h2{color:blue;font-size:70px;}
+container {  margin:20px; 
+    background-color: rgb(94, 73, 190);
+    width: 100%;
+    max-width: 240px;
+    font-family: Microsoft JhengHei;
+    text-align: center;
+    font-size:20px;}
+    .solid { border-style: solid; }
+background: lightyellow
